@@ -3,6 +3,8 @@ package studentlist;
 /**
  *
  * @author paulbonenfant
+ * @modifier wasiq
+  * on 04/feb/2022
  */
 public class Student {
 
