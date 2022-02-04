@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  *
  * @author paulbonenfant
+ * *modifier wasiq
  */
 public class StudentList {
 
